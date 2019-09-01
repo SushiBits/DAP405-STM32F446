@@ -6,4 +6,4 @@
 	url = https://github.com/SushiBits/platform-stm32f4
 [submodule "DAP405-STM32F446/contrib/libusb_stm32"]
 	path = DAP405-STM32F446/contrib/libusb_stm32
-	url = https://github.com/dmitrystu/libusb_stm32
+	url = https://github.com/SushiBits/libusb_stm32

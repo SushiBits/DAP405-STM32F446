@@ -7,6 +7,13 @@
 
 #include <stm32f4xx.h>
 
+#include "rcc.h"
+
+void SystemInit(void)
+{
+	rcc_init();
+}
+
 int main(void)
 {
 	for (;;)
