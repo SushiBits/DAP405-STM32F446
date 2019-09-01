@@ -1,0 +1,9 @@
+[submodule "DAP405-STM32F446/cmsis"]
+	path = DAP405-STM32F446/cmsis
+	url = https://github.com/SushiBits/cmsis
+[submodule "DAP405-STM32F446/platform"]
+	path = DAP405-STM32F446/platform
+	url = https://github.com/SushiBits/platform-stm32f4
+[submodule "DAP405-STM32F446/contrib/libusb_stm32"]
+	path = DAP405-STM32F446/contrib/libusb_stm32
+	url = https://github.com/dmitrystu/libusb_stm32
